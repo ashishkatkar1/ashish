@@ -1,0 +1,27 @@
+
+.row{
+    height:89vh;
+}
+
+
+.demo1{
+    width: 70%;
+    margin-left: 60px;
+}
+.demo{
+    text-align: center;
+    padding:5px;
+}
+.demo p{
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+.container1{
+background: linear-gradient(90deg, rgba(154,21,41,0.9640231092436975) 34%, rgba(240,63,93,1) 84%);
+overflow: hidden;
+}
+
+.button{
+    margin-top: 25px;
+    text-align: center;
+}

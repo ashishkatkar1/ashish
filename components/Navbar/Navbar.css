@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Quintessential&display=swap');
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(70, 31, 40);
+}
+.navbar-brand{
+    font-size: 2rem;
+    color: rgb(187, 123, 128);
+    font-family: 'Pacifico', cursive;}
+.navbar-brand:hover{
+    color:rgb(216, 21, 21);
+}
+ .nav-link{
+    margin: 10px;
+    font-size: 1.4rem;
+    color: rgb(187, 123, 128);
+    font-family: 'Rubik', sans-serif;
+    text-transform: uppercase;
+}
+.nav-link:hover{
+    color:rgb(216, 21, 21);
+}
